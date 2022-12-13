@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 qualunque cosa 
 Questo è un file di prova
-
-=======
 :) Questo è un file di prova
-asdaf
->>>>>>> baf0eeae16e877057d5793fc6668ce22908ba254
