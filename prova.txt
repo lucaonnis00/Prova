@@ -4,4 +4,8 @@ Questo è un file di prova
 busei
 Qualunque file è di prova
 viva Gesù
+<<<<<<< Updated upstream
 Ciao a tutti
+=======
+cicciogamer89
+>>>>>>> Stashed changes
