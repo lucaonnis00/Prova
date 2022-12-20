@@ -5,16 +5,7 @@ busei
 Qualunque file è di prova
 viva Gesù
 Ciao a tutti
-<<<<<<< HEAD
-
 asd
-
 abc
-=======
- branch1
-abc
-asd
-jiji
-viva la pizza
->>>>>>> main
+Prova stash
 
